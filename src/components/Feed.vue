@@ -62,7 +62,7 @@
   </div>
 </template>
 
-<script >
+<script>
 export default {
   name: "Feed",
   data() {
