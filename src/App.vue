@@ -1,19 +1,12 @@
 <template>
+<router-view class="ml-1 border-0 p-0 w-full h-full ">
   
-  <router-view/>
+</router-view>
+
+
 </template>
 
-<style >
-*{
-  margin: 0;
-  border: 0;
-  padding: 0;
-  font-family: sans-serif;
-}
+<script>
 
 
-
-
-
-
-</style>
+</script>
