@@ -13,7 +13,7 @@
   import Feed from '@/components/Feed.vue';
   import Makelogin from '@/components/Makelogin.vue';
   export default {
-    name: 'home',
+    name: 'home',  
     components: { Menu, Feed, Makelogin, }
   }
   </script>
